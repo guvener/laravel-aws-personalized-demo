@@ -30,7 +30,7 @@ composer install
 Open installed folder and copy sample environment file `.env.sample` to `.env` and set up.
 
 ```bash
-cp .env.sample .env
+cp .env.example .env
 php artisan key:generate
 ```
 
