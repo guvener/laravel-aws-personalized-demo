@@ -18,7 +18,7 @@
 
             <div class="my-3">
                 <!-- Place this tag where you want the button to render. -->
-                <a class="github-button" href="https://github.com/guvener/personalized-movie-demo-data/raw/main/personalized-movie-demo-data-dump.sql.gz" data-size="large" aria-label="Download guvener/personalized-movie-demo-data on GitHub">Download Database</a>
+                <a class="github-button" href="https://github.com/guvener/personalized-movie-demo-data" >Database Repository</a>
                 <!-- Place this tag in your head or just before your close body tag. -->
                 <script async defer src="https://buttons.github.io/buttons.js"></script>
             </div>
